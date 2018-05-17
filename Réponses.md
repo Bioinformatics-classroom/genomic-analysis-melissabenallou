@@ -37,3 +37,15 @@ https://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&lastVirtModeType=default&lastVi
 ### Q10
 Le gène est sur le brin sens car l'ARNm et le gène sont lu dans le même sens.
 ### Q11
+Le gène comporte 6 exons.
+### Q12
+La variation se trouve dans l'exon 3.
+### Q13
+Le variant se trouve dans une région conservée car il est retrouvé dans un grand nombre d'espèces.
+### Q14 
+Le variant se trouve dans le domaine "homeobox"
+### Q15
+La publication est celle de Barbara Wolters en 2013.
+### Q17
+Il y a plusieurs lignes car il y a plusieurs transcrits différents en raison de l'épissage. On remarque que la variation peut être dans l'exon 2 ou 3 et qu'il peut y avoir 5 à 7 exons.
+### Q18
